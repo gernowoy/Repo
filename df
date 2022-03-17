@@ -1,0 +1,10 @@
+core.editor="C:\Programs\Microsoft VS Code\Code.exe" --wait
+core.autocrlf=true
+core.safecrlf=warn
+user.name=Alexander
+user.email=88342872+gernowoy@users.noreply.github.com
+filter.lfs.required=true
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+gui.recentrepo=C:/Users/impul/Desktop/task/RSSchool/q2/rsschool-cv
