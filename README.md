@@ -2,6 +2,6 @@
 
 ## My repo
 
->> What a beautiful repo!
+> What a beautiful repo!
 
-> Realy nice!
+*Realy nice!*
